@@ -3882,7 +3882,7 @@ a {
     }
 
     .why-cards {
-        grid-template-columns: 1fr;
+        grid-template-columns:' 1fr';
         gap: 16px;
     }
 
@@ -3929,7 +3929,7 @@ a {
     }
 
     .project-cards {
-        grid-template-columns: 1fr;
+        grid-template-columns:' 1fr';
         width: 100%;
         gap: 16px;
     }
@@ -3961,7 +3961,7 @@ a {
     }
 
     .factory-gallery {
-        grid-template-columns: 1fr;
+        grid-template-columns: '1fr';
         width: 100%;
         gap: 15px;
     }
@@ -4062,7 +4062,7 @@ a {
     .stats-container {
         width: 90%;
         padding: 0;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: '1fr';
         gap: 12px;
         margin-bottom: 45px;
     }
@@ -4115,7 +4115,7 @@ a {
     }
 
     .projects-list {
-        grid-template-columns: 1fr;
+        grid-template-columns:' 1fr';
         padding: 10px 5%;
         width: 100%;
     }
@@ -4149,7 +4149,7 @@ a {
     .products-container {
         width: 90%;
         margin-top: 40px;
-        grid-template-columns: 1fr;
+        grid-template-columns:' 1fr';
         gap: 18px;
     }
 
@@ -4186,7 +4186,7 @@ a {
     .contact-container {
         width: 90%;
         margin: 35px auto;
-        grid-template-columns: 1fr;
+        grid-template-columns:' 1fr';
         gap: 20px;
     }
 
@@ -4214,7 +4214,7 @@ a {
 
     .footer-container {
         width: 90%;
-        grid-template-columns: 1fr;
+        grid-template-columns:' 1fr';
         gap: 30px;
         padding: 40px 0 30px;
     }
@@ -4290,7 +4290,7 @@ a {
     }
 
     .stats-container {
-        grid-template-columns: 1fr;
+        grid-template-columns: '1fr';
     }
 
     .project-card {
